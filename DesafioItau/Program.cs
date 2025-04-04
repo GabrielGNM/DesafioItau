@@ -1,6 +1,6 @@
-using DesafioItaú;
-using DesafioItaú.Dto;
-using DesafioItaú.Dto.Validators;
+ï»¿using DesafioItaÃº;
+using DesafioItaÃº.Dto;
+using DesafioItaÃº.Dto.Validators;
 using FluentValidation;
 
 var builder = WebApplication.CreateBuilder(args);
