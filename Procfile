@@ -1,1 +1,1 @@
-web: dotnet run --project DesafioItau.csproj --urls http://0.0.0.0:${PORT}
+web: dotnet publish/DesafioItau.dll --urls http://0.0.0.0:${PORT}
